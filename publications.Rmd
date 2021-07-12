@@ -1,0 +1,41 @@
+---
+title: "Publications"
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+```
+
+***
+* Chai, Y., Kunda, T., Rodríguez, A. & Rose, S. The prosody of declaratives and
+questions in Rere. To appear, Prosody and Prosodic Interfaces, Oxford.
+* Caballero, G., Chai, Y. & Garellek, M. Stress, tone, and intonation in Choguita Rarámuri. To appear, Prosody and Prosodic Interfaces, Oxford.
+
+
+***
+
+### Upcoming presentation
+* Chai, Y. 5/2020. The role of tone in TAM, verb class, and subject agreement in Rere. ACAL 51.
+
+
+***
+
+### Conference presentations
+
+* Chai, Y. 8/2019. The source of creak in Mandarin utterances. ICPhS 2019. [proceedings](file/proceeding_icphs2019_yc.pdf) [slides](file/slides_icphs2019_yc.pdf) [data](https://doi.org/10.17605/OSF.IO/XR8D7)
+* Chai, Y. 2/2018. Less proficient, more gestures? BLS 44. [manuscript](file/manuscript_bls_yc.pdf)
+
+
+***
+
+### Posters
+* Chai, Y. & Garellek, M. 12/2019. Using H1 instead of H1–H2 as an acoustic correlate of glottal constriction. ASA 2019. [poster](file/Chai_Garellek_ASA_F2019.pdf)
+* Chai, Y. & Ye, S. 12/2019. The neutralization of Xiapu Min tones in disyllabic tone sandhi forms. ASA 2019. [poster](file/Chai_ASA_F2019_print.pdf)
+* Chai, Y. 1/2019. The source of creak in Mandarin utterances: F0 or position-motivated? [poster](file/poster_lsa2019_yc.pdf)
+
+***
+
+### Unpublished manuscript
+* Chai, Y. 5/2017. Predicting Discrimination Accuracy of English Vowels by Native-Mandarin Learners. Unpublished master's thesis. University of Colorado Boulder, Boulder, USA. [manuscript](file/ma_thesis_yc.pdf)
+
+
